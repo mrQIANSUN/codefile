@@ -9,6 +9,7 @@ sunqia@oregonstate.edu
 
 
 3.Your major and year of study
+
 My major is computer science, and I have been studying in computer science for 4 years.
 
 
